@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+form {
+    max-width: 300px;
+    margin: auto;
+    padding: 1rem;
+    background: white;
+    border-radius: 5px;
+}
+input, select, button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}
